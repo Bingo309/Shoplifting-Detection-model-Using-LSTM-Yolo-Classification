@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2-%23EE4C2C)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.10-%235C3EE8)](https://opencv.org/)
 
-This repository contains the core machine learning models for **VigiGuard**, an AI-powered system designed to detect shoplifting behavior in real-time from surveillance footage. The project was developed as a Bachelor's thesis in Computer Science.
+This repository contains my Senior Porject for Jeddah International College (JIC) machine learning models, designed to detect shoplifting behavior in real-time footage.
 
 **Disclaimer:** This repo contains only the ML model component Not the full stack Webpage.
 
