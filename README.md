@@ -43,7 +43,7 @@ The integrated system successfully flags individuals only when the behavioral co
 
 ![Real-Time Theft Detection](media/real_time_demo.gif) *(A short video clip of your system working)*
 
-## 🚀 Getting Started
+## To clone this project
 
 ### Prerequisites
 *   Python 3.11+
@@ -70,23 +70,4 @@ The integrated system successfully flags individuals only when the behavioral co
 ## 📁 Project Structure
 *(Put the folder tree from Section 1 here)*
 
-## 🛠️ Development Process
-The project followed an iterative approach. Our key learnings were:
-- **Attempt 1 (Failed):** Training on raw RGB frames led to overfitting and poor generalization.
-- **Attempt 2 (Failed):** Using YOLO for direct "item-in-hand" detection was too noisy.
-- **Attempt 3 (Success):** The wrist-keypoint-guided cropping method proved to be the most robust and efficient approach, enabling reliable grasp classification.
 
-## 👨‍💻 Authors
-- **Mohammed Abdulaziz Banafe**
-- **Mustafa Muhamed Aleid**
-- **Shaden Kherallah Althagafi**
-- **Basil Hatim Alharbi**
-- **Sara Essam Alhilali**
-
-*Supervised by Dr. Zainab Mahmoud & Ms. Bushru Al-Anesi*
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-We thank Jeddah International College and our advisors for their guidance and support.
