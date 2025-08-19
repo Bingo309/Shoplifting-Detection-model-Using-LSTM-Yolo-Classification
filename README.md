@@ -6,7 +6,7 @@
 
 This repository contains the core machine learning models for **VigiGuard**, an AI-powered system designed to detect shoplifting behavior in real-time from surveillance footage. The project was developed as a Bachelor's thesis in Computer Science.
 
-**Disclaimer:** This repo contains only the ML model component. The full-stack web application (frontend, backend, database) is in a private repository.
+**Disclaimer:** This repo contains only the ML model component Not the full stack Webpage.
 
 ![VigiGuard System Overview](images/system_architecture.png) *(Use Figure 1.4 from your doc)*
 
