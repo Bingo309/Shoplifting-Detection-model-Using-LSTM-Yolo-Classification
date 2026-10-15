@@ -68,6 +68,5 @@ The integrated system successfully flags individuals only when the behavioral co
     ```
 
 ## 📁 Project Structure
-*(Put the folder tree from Section 1 here)*
 
 
