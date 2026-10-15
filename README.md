@@ -27,7 +27,7 @@ The system employs a multi-stage pipeline to accurately identify theft behavior:
 ## 📊 Model Performance & Results
 
 ### Grasp Classifier (MobileNetV2 + SVM)
-- **Validation Accuracy:** **97.3%**
+- **Validation Accuracy:** **65.3%**
 - The model generalizes well to various lighting conditions and backgrounds.
 
 ![Grasp Training Curves](images/grasp_training_curves.png) *(Use a panel from Figure 6-2)*
